@@ -1,7 +1,7 @@
 {
-  "name": "JulieMwol",
+  "name": "Janiya WA bot",
   "version": "7.3.6",
-  "description": "Julie Mwol is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
+  "description": "Janiya WA bot is the Modified Version of WhatsAsena, Made By @janithmadumal with Baileys.",
   "main": "./Julie-Mwol/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
@@ -18,7 +18,7 @@
     "WhatsAsena"
   ],
   "author": "farhan-dqz",
-  "developer": "@TOXIC-DEVIL / @farhan-dqz",
+  "developer": "@TOXIC-DEVIL / @farhan-dqz /@janithmadumal",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/farhan-dqz/Julie-Mwol/issues"
